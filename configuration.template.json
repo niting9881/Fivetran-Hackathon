@@ -1,0 +1,5 @@
+{
+    "API_KEY": "YOUR_NEWSAPI_KEY_HERE",
+    "pageSize": "5",
+    "language": "en"
+}
